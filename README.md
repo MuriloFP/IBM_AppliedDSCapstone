@@ -13,8 +13,11 @@ SpaceX has reduced the cost of space travel by reusing the Falcon 9 rocket's fir
 
 ## Repository Structure
 notebooks/: Jupyter notebooks for each module of the course.
+
 dashboards/: Code and files for the interactive dashboards created with Plotly Dash and Folium.
+
 presentation/: PowerPoint presentation summarizing the project.
+
 README.md: This file, providing an overview of the project and repository.
 
 ## Project Modules
